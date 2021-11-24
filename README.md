@@ -1,6 +1,8 @@
 # Credit-Card-Fraud-Detection
 ## Recognizing Fraudulent Credit Card Transactions
 
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/04.jpg)
+
 ### Introduction :
 There have always been people who would develop new ways to illegally access someone's finances since the payment systems were invented. This has become a huge issue in the modern era, because all purchases can be made online with just your credit card information. Even before two-step verification was employed for online purchasing in the United States in the 2010s, many American retail website users were victims of online transaction fraud. When a data breach results in monetary theft and, as a result, the loss of customers' loyalty and the company's reputation, it puts organisations, consumers, banks, and merchants at danger.
 
@@ -26,6 +28,7 @@ Employees of the company copy the card or card number of the owner.
 Manufacture of counterfeit credit cards.
 If your card is lost or stolen, unauthorized debiting of funds may occur; That is, the person who finds it uses it to make a purchase. Criminals can also spoof your name and use a card or order certain items through a mobile phone or computer. There is also the problem of using counterfeit credit cards - counterfeit cards with real account information that have been stolen from the cardholder. This is especially dangerous because the victim has their real card, but they don't know that someone copied their card. These fraudulent cards look legitimate and have a logo and a magnetic code on them. original stripe.Fraudulent credit cards are often destroyed by criminals after several successful payments, shortly before the victim realizes the problem and reports it.
 
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/06.jpg)
 
 ### Business Challenge :
 Detecting fraud transactions is of great importance for any credit card company. We are tasked by a well-known company to detect potential frauds so that customers are not charged for items that they did not purchase.
@@ -49,6 +52,8 @@ The challenge is to recognize fraudulent credit card transactions so that the cu
   4. A more trustworthy source must be taken which double-check the data, at least for training the model.
   5. We can make the model simple and interpretable so that when the scammer adapts to it with just some tweaks we can have a new model up and running to deploy.
 
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/07.jpg)
+
 ### Description of Dataset :
   1. The dataset contains transactions made by credit cards in September 2013 by European cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly Imbalanced, the positive class (frauds) account for 0.172% of all transactions.
 
@@ -58,3 +63,56 @@ The challenge is to recognize fraudulent credit card transactions so that the cu
 
   4. The dataset has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group (http://mlg.ulb.ac.be) of ULB (Université Libre de Bruxelles) on big data mining and fraud detection.
 
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/10.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/11.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/12.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/13.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/15.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/16.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/17.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/18.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/19.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/20.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/21.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/22.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/23.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/24.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/25.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/26.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/27.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/28.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/29.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/30.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/31.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/32.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/33.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/34.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/35.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/36.jpg)
+
+![](https://github.com/ShivankUdayawal/Credit-Card-Fraud-Detection/blob/main/Data%20Visualization/37.jpg)
